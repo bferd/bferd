@@ -49,13 +49,16 @@ open-source recipe management app:
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
-| [#8022 – revalidate stale group/household cache](https://github.com/mealie-recipes/mealie/pull/8022) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8022) |
-| [#8021 – fix recipe image lost after "Get"](https://github.com/mealie-recipes/mealie/pull/8021) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8021) |
-| [#8018 – admin unable to edit recipes in other households](https://github.com/mealie-recipes/mealie/pull/8018) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8018) |
-| [#7941 – skip expiring share link for public recipes](https://github.com/mealie-recipes/mealie/pull/7941) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7941) |
-| [#7933 – lightbox for recipe hero/asset images](https://github.com/mealie-recipes/mealie/pull/7933) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7933) |
-| [#7829 – organizer improvements](https://github.com/mealie-recipes/mealie/pull/7829) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7829) |
-| [#7825 – plain-text recipe import via OpenAI](https://github.com/mealie-recipes/mealie/pull/7825) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7825) |
+| [mealie-recipes/mealie#8022 – fix: revalidate stale group/household preferences cache and settings forms](https://github.com/mealie-recipes/mealie/pull/8022) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8022) |
+| [mealie-recipes/mealie#8021 – fix: recipe image lost after using "Get" (fetch by URL) then saving](https://github.com/mealie-recipes/mealie/pull/8021) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8021) |
+| [mealie-recipes/mealie#8018 – fix: admin unable to edit recipes in other households (#7810)](https://github.com/mealie-recipes/mealie/pull/8018) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8018) |
+| [mealie-recipes/mealie#7941 – feat: skip expiring share link for fully-public groups/households](https://github.com/mealie-recipes/mealie/pull/7941) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7941) |
+| [mealie-recipes/mealie#7933 – feat: click-to-expand lightbox for recipe hero image and asset images](https://github.com/mealie-recipes/mealie/pull/7933) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7933) |
+| [mealie-recipes/mealie#7931 – fix: New Asset dialog Type dropdown broken by Vuetify 4.1.2 item slot…](https://github.com/mealie-recipes/mealie/pull/7931) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7931) |
+| [jma1ice/newsletterr#161 – Feature/Ombi integration — "Recent Requests" email snap-in](https://github.com/jma1ice/newsletterr/pull/161) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/161) |
+| [jma1ice/newsletterr#154 – fix: use exact match for library filter to prevent wrong library content](https://github.com/jma1ice/newsletterr/pull/154) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/154) |
+| [mealie-recipes/mealie#7829 – feat: organizer improvements — recipeCount, merge endpoint, delete unused UI](https://github.com/mealie-recipes/mealie/pull/7829) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7829) |
+| [mealie-recipes/mealie#7825 – feat: add plain-text recipe import via OpenAI](https://github.com/mealie-recipes/mealie/pull/7825) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7825) |
 <!-- PR-STATUS:END -->
 
 ## 🛠️ Technologies & Tools
