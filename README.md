@@ -44,8 +44,9 @@ open-source recipe management app:
 - *Planned:* Theme & branding admin settings
 - Bug fixes and UI polish
 
-**Open PR status** *(live)*
+**Open PR status** *(auto-updated)*
 
+<!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
 | [#8022 – revalidate stale group/household cache](https://github.com/mealie-recipes/mealie/pull/8022) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8022) |
@@ -55,6 +56,7 @@ open-source recipe management app:
 | [#7933 – lightbox for recipe hero/asset images](https://github.com/mealie-recipes/mealie/pull/7933) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7933) |
 | [#7829 – organizer improvements](https://github.com/mealie-recipes/mealie/pull/7829) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7829) |
 | [#7825 – plain-text recipe import via OpenAI](https://github.com/mealie-recipes/mealie/pull/7825) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7825) |
+<!-- PR-STATUS:END -->
 
 ## 🛠️ Technologies & Tools
 
@@ -63,6 +65,7 @@ open-source recipe management app:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
 
 **Backend:**
 
