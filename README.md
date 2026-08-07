@@ -46,6 +46,7 @@ open-source recipe management app:
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [music-assistant/frontend#2324 – Add provider filter to Recently Played shelf on Discover](https://github.com/music-assistant/frontend/pull/2324) | ![PR status](https://img.shields.io/github/pulls/detail/state/music-assistant/frontend/2324) |
 | [mealie-recipes/mealie#8022 – fix: revalidate stale group/household preferences cache and settings forms](https://github.com/mealie-recipes/mealie/pull/8022) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8022) |
 | [mealie-recipes/mealie#8021 – fix: recipe image lost after using "Get" (fetch by URL) then saving](https://github.com/mealie-recipes/mealie/pull/8021) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8021) |
 | [mealie-recipes/mealie#8018 – fix: admin unable to edit recipes in other households (#7810)](https://github.com/mealie-recipes/mealie/pull/8018) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8018) |
@@ -55,7 +56,6 @@ open-source recipe management app:
 | [jma1ice/newsletterr#161 – Feature/Ombi integration — "Recent Requests" email snap-in](https://github.com/jma1ice/newsletterr/pull/161) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/161) |
 | [jma1ice/newsletterr#154 – fix: use exact match for library filter to prevent wrong library content](https://github.com/jma1ice/newsletterr/pull/154) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/154) |
 | [mealie-recipes/mealie#7829 – feat: organizer improvements — recipeCount, merge endpoint, delete unused UI](https://github.com/mealie-recipes/mealie/pull/7829) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7829) |
-| [mealie-recipes/mealie#7825 – feat: add plain-text recipe import via OpenAI](https://github.com/mealie-recipes/mealie/pull/7825) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7825) |
 <!-- PR-STATUS:END -->
 
 ## 🛠️ Technologies & Tools
