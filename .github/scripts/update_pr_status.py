@@ -14,7 +14,7 @@ encoded_query = urllib.parse.quote(query)
 
 url = (
     f"https://api.github.com/search/issues?q={encoded_query}"
-    f"&sort=created&order=desc&per_page=20"
+    f"&sort=created&order=desc&per_page=10"
 )
 
 req = urllib.request.Request(
