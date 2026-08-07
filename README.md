@@ -33,7 +33,7 @@ my Home Assistant automation collection:
 - Adaptive fan speed control with multi-sensor support
 - Both live on the Home Assistant Blueprint Exchange
 
-Actively contributing to **[Mealie](https://github.com/bferd/mealie)**, an
+Actively contributing to **[Mealie](https://github.com/mealie-recipes/mealie)**, an
 open-source recipe management app:
 
 - Plain-text / AI-assisted recipe import
