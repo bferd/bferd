@@ -1,11 +1,8 @@
 # Hi, I'm Brad 👋
 
-Curious by nature — I like figuring out how things work, tinkering until
-they work better, and generally leaving whatever I touch a little improved.
+Curious by nature — I like figuring out how things work, tinkering until they work better, and occasionally proving that `git revert` is also a skill. I've bricked a few things in the name of "just one more feature" and learned to always test in prod (kidding — mostly). If it's broken, there's a decent chance I broke it; if it's fixed, there's a decent chance I fixed it too.
 
-**By day:** Quality Rep & H&S Advisor in industrial supply, working on
-nuclear-sector quality compliance (CSA N299.4), ISO 9001 audit readiness,
-and ISO 45001 certification.
+**By day:** Quality & H&S management in energy supply, working on nuclear-sector quality compliance (CSA N299.4), ISO 9001 and ISO 45001 audit readiness.
 
 
 ## 🌌 Featured project
