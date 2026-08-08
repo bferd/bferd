@@ -1,11 +1,15 @@
-# Hi, I'm Brad 👋
+## Hi, I'm Brad
 
 Curious by nature — I like figuring out how things work, tinkering until they work better, and occasionally proving that `git revert` is also a skill. I've bricked a few things in the name of "just one more feature" and learned to always test in prod (kidding — mostly). If it's broken, there's a decent chance I broke it; if it's fixed, there's a decent chance I fixed it too.
 
 **By day:** Quality & H&S management in energy supply, working on nuclear-sector quality compliance (CSA N299.4), ISO 9001 and ISO 45001 audit readiness.
 
+**By night:** developer and tinkerer — open-source contributor, homelab geek, and HA automation author, classic car guy, a build-it-myself king, the guy who'll fix just about anything before buying new, and — most importantly —
+a full-time grandkid enthusiast.
 
-## 🌌 Featured project
+Find me - [linkstack.schroth.ca/@brad](https://linkstack.schroth.ca/@brad)
+
+## Featured projects
 
 **[The Firmament](https://github.com/bferd/the-firmament)** — a self-hosted
 dashboard for my homelab. Node.js/Docker app with live Proxmox and backup
@@ -17,7 +21,7 @@ app. PHP/SQLite backend with a multi-agent AI pipeline for destination
 search, full auth and Stripe-based subscriptions, and a security-hardened
 deployment (A rating on securityheaders.com).
 
-## 🍳 What I'm working on
+## What I'm working on
 
 Contributing to **[Newsletterr](https://github.com/jma1ice/newsletterr)**, an
 open-source Plex newsletter tool:
@@ -57,41 +61,3 @@ open-source recipe management app:
 | [jma1ice/newsletterr#154 – fix: use exact match for library filter to prevent wrong library content](https://github.com/jma1ice/newsletterr/pull/154) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/154) |
 | [mealie-recipes/mealie#7829 – feat: organizer improvements — recipeCount, merge endpoint, delete unused UI](https://github.com/mealie-recipes/mealie/pull/7829) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7829) |
 <!-- PR-STATUS:END -->
-
-## 🛠️ Technologies & Tools
-
-**Languages:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
-
-**Backend:**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**Frontend:**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
-
-**Data:**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-**Infrastructure:**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**Dev Tools:**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white)
-
-## 📫 Find me
-
-- [linkstack.schroth.ca/@brad](https://linkstack.schroth.ca/@brad)
