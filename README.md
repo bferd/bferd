@@ -50,6 +50,7 @@ open-source recipe management app:
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [jma1ice/newsletterr#202 – Fix: Install chromium-headless-shell instead of full chromium](https://github.com/jma1ice/newsletterr/pull/202) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/202) |
 | [community-scripts/ProxmoxVE#16609 – fix: clean yarn cache after mealie frontend build to prevent disk growth](https://github.com/community-scripts/ProxmoxVE/pull/16609) | ![PR status](https://img.shields.io/github/pulls/detail/state/community-scripts/ProxmoxVE/16609) |
 | [music-assistant/frontend#2324 – Add provider filter to Discover recommendation rows](https://github.com/music-assistant/frontend/pull/2324) | ![PR status](https://img.shields.io/github/pulls/detail/state/music-assistant/frontend/2324) |
 | [mealie-recipes/mealie#8022 – fix: revalidate stale group/household preferences cache and settings forms](https://github.com/mealie-recipes/mealie/pull/8022) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8022) |
@@ -59,5 +60,4 @@ open-source recipe management app:
 | [mealie-recipes/mealie#7933 – feat: click-to-expand lightbox for recipe hero image and asset images](https://github.com/mealie-recipes/mealie/pull/7933) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7933) |
 | [mealie-recipes/mealie#7931 – fix: New Asset dialog Type dropdown broken by Vuetify 4.1.2 item slot…](https://github.com/mealie-recipes/mealie/pull/7931) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7931) |
 | [jma1ice/newsletterr#161 – Feature/Ombi integration — "Recent Requests" email snap-in](https://github.com/jma1ice/newsletterr/pull/161) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/161) |
-| [jma1ice/newsletterr#154 – fix: use exact match for library filter to prevent wrong library content](https://github.com/jma1ice/newsletterr/pull/154) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/154) |
 <!-- PR-STATUS:END -->
