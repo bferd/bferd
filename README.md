@@ -50,6 +50,9 @@ open-source recipe management app:
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [mealie-recipes/mealie#8227 – fix: labels get-by-id returns 404 instead of 500 for missing id](https://github.com/mealie-recipes/mealie/pull/8227) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8227) |
+| [mealie-recipes/mealie#8226 – fix: correct MultiPurposeLabel.foods/shopping_list_items relationship cardinality](https://github.com/mealie-recipes/mealie/pull/8226) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8226) |
+| [mealie-recipes/mealie#8225 – Feat/organizer improvements extended](https://github.com/mealie-recipes/mealie/pull/8225) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8225) |
 | [jma1ice/newsletterr#202 – Fix: Install chromium-headless-shell instead of full chromium](https://github.com/jma1ice/newsletterr/pull/202) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/202) |
 | [community-scripts/ProxmoxVE#16609 – fix: clean yarn cache after mealie frontend build to prevent disk growth](https://github.com/community-scripts/ProxmoxVE/pull/16609) | ![PR status](https://img.shields.io/github/pulls/detail/state/community-scripts/ProxmoxVE/16609) |
 | [music-assistant/frontend#2324 – Add provider filter to Discover recommendation rows](https://github.com/music-assistant/frontend/pull/2324) | ![PR status](https://img.shields.io/github/pulls/detail/state/music-assistant/frontend/2324) |
@@ -57,7 +60,4 @@ open-source recipe management app:
 | [mealie-recipes/mealie#8021 – fix: recipe image lost after using "Get" (fetch by URL) then saving](https://github.com/mealie-recipes/mealie/pull/8021) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8021) |
 | [mealie-recipes/mealie#8018 – fix: admin unable to edit recipes in other households (#7810)](https://github.com/mealie-recipes/mealie/pull/8018) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8018) |
 | [mealie-recipes/mealie#7941 – feat: skip expiring share link for fully-public groups/households](https://github.com/mealie-recipes/mealie/pull/7941) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7941) |
-| [mealie-recipes/mealie#7933 – feat: click-to-expand lightbox for recipe hero image and asset images](https://github.com/mealie-recipes/mealie/pull/7933) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7933) |
-| [mealie-recipes/mealie#7931 – fix: New Asset dialog Type dropdown broken by Vuetify 4.1.2 item slot…](https://github.com/mealie-recipes/mealie/pull/7931) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7931) |
-| [jma1ice/newsletterr#161 – Feature/Ombi integration — "Recent Requests" email snap-in](https://github.com/jma1ice/newsletterr/pull/161) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/161) |
 <!-- PR-STATUS:END -->
