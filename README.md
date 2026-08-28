@@ -45,7 +45,7 @@ open-source recipe management app:
 - *Planned:* Theme & branding admin settings
 - Bug fixes and UI polish
 
-**Open PR status** *(auto-updated)*
+**PR status** *(auto-updated)*
 
 <!-- PR-STATUS:START -->
 | PR | Status |
