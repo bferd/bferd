@@ -50,6 +50,8 @@ open-source recipe management app:
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [LeZed97/ZedSuite#29 – Linux support: AppImage + deb builds](https://github.com/LeZed97/ZedSuite/pull/29) | ![PR status](https://img.shields.io/github/pulls/detail/state/LeZed97/ZedSuite/29) |
+| [mealie-recipes/mealie#8350 – fix: get_empty()/merge() missing legacy cookbook/plan-rule checks for tags & categories](https://github.com/mealie-recipes/mealie/pull/8350) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8350) |
 | [mealie-recipes/mealie#8227 – fix: labels get-by-id returns 404 instead of 500 for missing id](https://github.com/mealie-recipes/mealie/pull/8227) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8227) |
 | [mealie-recipes/mealie#8226 – fix: correct MultiPurposeLabel.foods/shopping_list_items relationship cardinality](https://github.com/mealie-recipes/mealie/pull/8226) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8226) |
 | [mealie-recipes/mealie#8225 – Feat/organizer improvements extended](https://github.com/mealie-recipes/mealie/pull/8225) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8225) |
@@ -63,6 +65,4 @@ open-source recipe management app:
 | [mealie-recipes/mealie#7933 – feat: click-to-expand lightbox for recipe hero image and asset images](https://github.com/mealie-recipes/mealie/pull/7933) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7933) |
 | [mealie-recipes/mealie#7931 – fix: New Asset dialog Type dropdown broken by Vuetify 4.1.2 item slot…](https://github.com/mealie-recipes/mealie/pull/7931) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7931) |
 | [jma1ice/newsletterr#161 – Feature/Ombi integration — "Recent Requests" email snap-in](https://github.com/jma1ice/newsletterr/pull/161) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/161) |
-| [jma1ice/newsletterr#154 – fix: use exact match for library filter to prevent wrong library content](https://github.com/jma1ice/newsletterr/pull/154) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/154) |
-| [mealie-recipes/mealie#7829 – feat: organizer improvements — recipeCount, merge endpoint, delete unused UI](https://github.com/mealie-recipes/mealie/pull/7829) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7829) |
 <!-- PR-STATUS:END -->
