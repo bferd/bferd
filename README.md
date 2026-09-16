@@ -50,6 +50,7 @@ open-source recipe management app:
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [mealie-recipes/mealie#8429 – feat: admin permissions UI consistency and tooltips](https://github.com/mealie-recipes/mealie/pull/8429) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8429) |
 | [LeZed97/ZedSuite#29 – Linux support: AppImage + deb builds](https://github.com/LeZed97/ZedSuite/pull/29) | ![PR status](https://img.shields.io/github/pulls/detail/state/LeZed97/ZedSuite/29) |
 | [mealie-recipes/mealie#8350 – fix: get_empty()/merge() missing legacy cookbook/plan-rule checks for tags & categories](https://github.com/mealie-recipes/mealie/pull/8350) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8350) |
 | [mealie-recipes/mealie#8227 – fix: labels get-by-id returns 404 instead of 500 for missing id](https://github.com/mealie-recipes/mealie/pull/8227) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8227) |
@@ -64,5 +65,4 @@ open-source recipe management app:
 | [mealie-recipes/mealie#7941 – feat: skip expiring share link for fully-public groups/households](https://github.com/mealie-recipes/mealie/pull/7941) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7941) |
 | [mealie-recipes/mealie#7933 – feat: click-to-expand lightbox for recipe hero image and asset images](https://github.com/mealie-recipes/mealie/pull/7933) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7933) |
 | [mealie-recipes/mealie#7931 – fix: New Asset dialog Type dropdown broken by Vuetify 4.1.2 item slot…](https://github.com/mealie-recipes/mealie/pull/7931) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7931) |
-| [jma1ice/newsletterr#161 – Feature/Ombi integration — "Recent Requests" email snap-in](https://github.com/jma1ice/newsletterr/pull/161) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/161) |
 <!-- PR-STATUS:END -->
