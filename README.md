@@ -50,6 +50,7 @@ open-source recipe management app:
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [mealie-recipes/mealie#8496 – fix: show error feedback when a recipe asset upload fails](https://github.com/mealie-recipes/mealie/pull/8496) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8496) |
 | [mealie-recipes/mealie#8450 – feat: add gallery navigation to recipe image lightbox](https://github.com/mealie-recipes/mealie/pull/8450) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8450) |
 | [mealie-recipes/mealie#8429 – feat: admin permissions UI consistency and tooltips](https://github.com/mealie-recipes/mealie/pull/8429) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8429) |
 | [LeZed97/ZedSuite#29 – Linux support: AppImage + deb builds](https://github.com/LeZed97/ZedSuite/pull/29) | ![PR status](https://img.shields.io/github/pulls/detail/state/LeZed97/ZedSuite/29) |
@@ -64,5 +65,4 @@ open-source recipe management app:
 | [mealie-recipes/mealie#8021 – fix: recipe image lost after using "Get" (fetch by URL) then saving](https://github.com/mealie-recipes/mealie/pull/8021) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8021) |
 | [mealie-recipes/mealie#8018 – fix: admin unable to edit recipes in other households (#7810)](https://github.com/mealie-recipes/mealie/pull/8018) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8018) |
 | [mealie-recipes/mealie#7941 – feat: skip expiring share link for fully-public groups/households](https://github.com/mealie-recipes/mealie/pull/7941) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7941) |
-| [mealie-recipes/mealie#7933 – feat: click-to-expand lightbox for recipe hero image and asset images](https://github.com/mealie-recipes/mealie/pull/7933) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/7933) |
 <!-- PR-STATUS:END -->
