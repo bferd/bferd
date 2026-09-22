@@ -50,6 +50,7 @@ open-source recipe management app:
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [mealie-recipes/mealie#8502 – fix: don't treat unnamed measurement as ingredient substitution](https://github.com/mealie-recipes/mealie/pull/8502) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8502) |
 | [mealie-recipes/mealie#8498 – fix: validate image type on recipe hero image upload](https://github.com/mealie-recipes/mealie/pull/8498) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8498) |
 | [mealie-recipes/mealie#8496 – fix: show error feedback when a recipe asset upload fails](https://github.com/mealie-recipes/mealie/pull/8496) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8496) |
 | [mealie-recipes/mealie#8450 – feat: add gallery navigation to recipe image lightbox](https://github.com/mealie-recipes/mealie/pull/8450) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8450) |
@@ -64,5 +65,4 @@ open-source recipe management app:
 | [music-assistant/frontend#2324 – Add provider filter to Discover recommendation rows](https://github.com/music-assistant/frontend/pull/2324) | ![PR status](https://img.shields.io/github/pulls/detail/state/music-assistant/frontend/2324) |
 | [mealie-recipes/mealie#8022 – fix: revalidate stale group/household preferences cache and settings forms](https://github.com/mealie-recipes/mealie/pull/8022) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8022) |
 | [mealie-recipes/mealie#8021 – fix: recipe image lost after using "Get" (fetch by URL) then saving](https://github.com/mealie-recipes/mealie/pull/8021) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8021) |
-| [mealie-recipes/mealie#8018 – fix: admin unable to edit recipes in other households (#7810)](https://github.com/mealie-recipes/mealie/pull/8018) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8018) |
 <!-- PR-STATUS:END -->
