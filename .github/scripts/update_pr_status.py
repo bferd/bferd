@@ -34,8 +34,17 @@ for item in data.get("items", []):
     num = item["number"]
     title = item["title"].replace("|", "\\|")
     url_ = item["html_url"]
-    badge = f"https://img.shields.io/github/pulls/detail/state/{repo}/{num}"
-    lines.append(f"| [{repo}#{num} \u2013 {title}]({url_}) | ![PR status]({badge}) |")
+
+    # Always use the live, auto-refreshing state badge (open/closed/merged).
+    state_badge = f"https://img.shields.io/github/pulls/detail/state/{repo}/{num}"
+    status_cell = f"![PR status]({state_badge})"
+
+    # shields.io's live badge doesn't report draft, so flag it alongside.
+    if item.get("draft"):
+        draft_badge = "https://img.shields.io/badge/-draft-lightgrey"
+        status_cell += f" ![Draft]({draft_badge})"
+
+    lines.append(f"| [{repo}#{num} \u2013 {title}]({url_}) | {status_cell} |")
 
 table = "\n".join(lines) + "\n"
 
