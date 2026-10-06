@@ -39,10 +39,15 @@ for item in data.get("items", []):
     state_badge = f"https://img.shields.io/github/pulls/detail/state/{repo}/{num}"
     status_cell = f"![PR status]({state_badge})"
 
-    # shields.io's live badge doesn't report draft, so flag it alongside.
+    # shields.io's live badge doesn't report draft, so flag it alongside —
+    # small, muted, and glued to the state badge with a non-breaking space
+    # so the two don't wrap onto separate lines in the table cell.
     if item.get("draft"):
-        draft_badge = "https://img.shields.io/badge/-draft-lightgrey"
-        status_cell += f" ![Draft]({draft_badge})"
+        draft_badge = (
+            "https://img.shields.io/badge/-draft-eeeeee"
+            "?style=flat-square&labelColor=eeeeee"
+        )
+        status_cell += f" ![draft]({draft_badge})"
 
     lines.append(f"| [{repo}#{num} \u2013 {title}]({url_}) | {status_cell} |")
 
