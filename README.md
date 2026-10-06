@@ -50,6 +50,7 @@ open-source recipe management app:
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [mealie-recipes/mealie#8652 – feat: associated recipes in organizer edit dialogs with removable tag…](https://github.com/mealie-recipes/mealie/pull/8652) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8652) |
 | [mealie-recipes/mealie#8536 – feat: import recipes from PDF, Word, ODT, and text documents](https://github.com/mealie-recipes/mealie/pull/8536) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8536) |
 | [mealie-recipes/mealie#8502 – fix: don't treat unnamed measurement as ingredient substitution](https://github.com/mealie-recipes/mealie/pull/8502) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8502) |
 | [mealie-recipes/mealie#8498 – fix: validate image type on recipe hero image upload](https://github.com/mealie-recipes/mealie/pull/8498) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8498) |
@@ -64,5 +65,4 @@ open-source recipe management app:
 | [jma1ice/newsletterr#202 – Fix: Install chromium-headless-shell instead of full chromium](https://github.com/jma1ice/newsletterr/pull/202) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/202) |
 | [community-scripts/ProxmoxVE#16609 – fix: clean yarn cache after mealie frontend build to prevent disk growth](https://github.com/community-scripts/ProxmoxVE/pull/16609) | ![PR status](https://img.shields.io/github/pulls/detail/state/community-scripts/ProxmoxVE/16609) |
 | [music-assistant/frontend#2324 – Add provider filter to Discover recommendation rows](https://github.com/music-assistant/frontend/pull/2324) | ![PR status](https://img.shields.io/github/pulls/detail/state/music-assistant/frontend/2324) |
-| [mealie-recipes/mealie#8022 – fix: revalidate stale group/household preferences cache and settings forms](https://github.com/mealie-recipes/mealie/pull/8022) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8022) |
 <!-- PR-STATUS:END -->
