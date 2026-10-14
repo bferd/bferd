@@ -50,11 +50,12 @@ open-source recipe management app:
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [dedsxc/mcp-frigate#69 – fix: honor FRIGATE_SERVER_HOST and FRIGATE_SERVER_PORT in SSE mode](https://github.com/dedsxc/mcp-frigate/pull/69) | ![PR status](https://img.shields.io/github/pulls/detail/state/dedsxc/mcp-frigate/69) |
 | [mealie-recipes/mealie#8652 – feat: associated recipes in organizer edit dialogs with removable tag…](https://github.com/mealie-recipes/mealie/pull/8652) | <span style="white-space:nowrap">![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8652) <sub><i>draft</i></sub></span> |
 | [mealie-recipes/mealie#8536 – feat: import recipes from PDF, Word, ODT, and text documents](https://github.com/mealie-recipes/mealie/pull/8536) | <span style="white-space:nowrap">![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8536) <sub><i>draft</i></sub></span> |
 | [mealie-recipes/mealie#8502 – fix: don't treat unnamed measurement as ingredient substitution](https://github.com/mealie-recipes/mealie/pull/8502) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8502) |
-| [mealie-recipes/mealie#8498 – fix: validate image type on recipe hero image upload](https://github.com/mealie-recipes/mealie/pull/8498) | <span style="white-space:nowrap">![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8498) <sub><i>draft</i></sub></span> |
-| [mealie-recipes/mealie#8496 – fix: show error feedback when a recipe asset upload fails](https://github.com/mealie-recipes/mealie/pull/8496) | <span style="white-space:nowrap">![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8496) <sub><i>draft</i></sub></span> |
+| [mealie-recipes/mealie#8498 – fix: validate image type on recipe hero image upload](https://github.com/mealie-recipes/mealie/pull/8498) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8498) |
+| [mealie-recipes/mealie#8496 – fix: show error feedback when a recipe asset upload fails](https://github.com/mealie-recipes/mealie/pull/8496) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8496) |
 | [mealie-recipes/mealie#8450 – feat: add gallery navigation to recipe image lightbox](https://github.com/mealie-recipes/mealie/pull/8450) | <span style="white-space:nowrap">![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8450) <sub><i>draft</i></sub></span> |
 | [mealie-recipes/mealie#8429 – feat: admin permissions UI consistency and tooltips](https://github.com/mealie-recipes/mealie/pull/8429) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8429) |
 | [LeZed97/ZedSuite#29 – Linux support: AppImage + deb builds](https://github.com/LeZed97/ZedSuite/pull/29) | ![PR status](https://img.shields.io/github/pulls/detail/state/LeZed97/ZedSuite/29) |
@@ -64,5 +65,4 @@ open-source recipe management app:
 | [mealie-recipes/mealie#8225 – feat: organizer improvements for foods, tools, and labels](https://github.com/mealie-recipes/mealie/pull/8225) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8225) |
 | [jma1ice/newsletterr#202 – Fix: Install chromium-headless-shell instead of full chromium](https://github.com/jma1ice/newsletterr/pull/202) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/202) |
 | [community-scripts/ProxmoxVE#16609 – fix: clean yarn cache after mealie frontend build to prevent disk growth](https://github.com/community-scripts/ProxmoxVE/pull/16609) | ![PR status](https://img.shields.io/github/pulls/detail/state/community-scripts/ProxmoxVE/16609) |
-| [music-assistant/frontend#2324 – Add provider filter to Discover recommendation rows](https://github.com/music-assistant/frontend/pull/2324) | ![PR status](https://img.shields.io/github/pulls/detail/state/music-assistant/frontend/2324) |
 <!-- PR-STATUS:END -->
