@@ -23,28 +23,6 @@ deployment (A rating on securityheaders.com).
 
 ## What I'm working on
 
-Contributing to **[Newsletterr](https://github.com/jma1ice/newsletterr)**, an
-open-source Plex newsletter tool:
-
-- Shipped the Ombi "Recent Requests" snap-in
-- Fixed a library-filter matching bug
-- Diagnosed a Plex OAuth token issue upstream
-
-Publishing to **[HA Blueprints](https://github.com/bferd/homeassistant-blueprints)**,
-my Home Assistant automation collection:
-
-- ESPHome bulk-update scheduling with configurable thresholds
-- Adaptive fan speed control with multi-sensor support
-- Both live on the Home Assistant Blueprint Exchange
-
-Actively contributing to **[Mealie](https://github.com/mealie-recipes/mealie)**, an
-open-source recipe management app:
-
-- Plain-text / AI-assisted recipe import
-- Organizer improvements (tag & category merge tools, recipe counts)
-- *Planned:* Theme & branding admin settings
-- Bug fixes and UI polish
-
 **PR status** *(auto-updated)*
 
 <!-- PR-STATUS:START -->
