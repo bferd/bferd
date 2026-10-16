@@ -28,6 +28,7 @@ deployment (A rating on securityheaders.com).
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [ljmerza/homepass#5 – Add per-link option to show remaining uses on the guest page](https://github.com/ljmerza/homepass/pull/5) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/5) |
 | [dedsxc/mcp-frigate#69 – fix: honor FRIGATE_SERVER_HOST and FRIGATE_SERVER_PORT in SSE mode](https://github.com/dedsxc/mcp-frigate/pull/69) | ![PR status](https://img.shields.io/github/pulls/detail/state/dedsxc/mcp-frigate/69) |
 | [mealie-recipes/mealie#8652 – feat: associated recipes in organizer edit dialogs with removable tag…](https://github.com/mealie-recipes/mealie/pull/8652) | <span style="white-space:nowrap">![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8652) <sub><i>draft</i></sub></span> |
 | [mealie-recipes/mealie#8536 – feat: import recipes from PDF, Word, ODT, and text documents](https://github.com/mealie-recipes/mealie/pull/8536) | <span style="white-space:nowrap">![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8536) <sub><i>draft</i></sub></span> |
@@ -42,5 +43,4 @@ deployment (A rating on securityheaders.com).
 | [mealie-recipes/mealie#8226 – fix: correct MultiPurposeLabel.foods/shopping_list_items relationship cardinality](https://github.com/mealie-recipes/mealie/pull/8226) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8226) |
 | [mealie-recipes/mealie#8225 – feat: organizer improvements for foods, tools, and labels](https://github.com/mealie-recipes/mealie/pull/8225) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8225) |
 | [jma1ice/newsletterr#202 – Fix: Install chromium-headless-shell instead of full chromium](https://github.com/jma1ice/newsletterr/pull/202) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/202) |
-| [community-scripts/ProxmoxVE#16609 – fix: clean yarn cache after mealie frontend build to prevent disk growth](https://github.com/community-scripts/ProxmoxVE/pull/16609) | ![PR status](https://img.shields.io/github/pulls/detail/state/community-scripts/ProxmoxVE/16609) |
 <!-- PR-STATUS:END -->
