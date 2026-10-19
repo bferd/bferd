@@ -28,6 +28,8 @@ deployment (A rating on securityheaders.com).
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [community-scripts/ProxmoxVE#18006 – feat(mealie): add reverse proxy auth settings to mealie.env](https://github.com/community-scripts/ProxmoxVE/pull/18006) | ![PR status](https://img.shields.io/github/pulls/detail/state/community-scripts/ProxmoxVE/18006) |
+| [ljmerza/homepass#9 – Feat - Add configurable info text for guest pages](https://github.com/ljmerza/homepass/pull/9) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/9) |
 | [ljmerza/homepass#5 – Add per-link option to show remaining uses on the guest page](https://github.com/ljmerza/homepass/pull/5) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/5) |
 | [dedsxc/mcp-frigate#69 – fix: honor FRIGATE_SERVER_HOST and FRIGATE_SERVER_PORT in SSE mode](https://github.com/dedsxc/mcp-frigate/pull/69) | ![PR status](https://img.shields.io/github/pulls/detail/state/dedsxc/mcp-frigate/69) |
 | [mealie-recipes/mealie#8652 – feat: associated recipes in organizer edit dialogs with removable tag…](https://github.com/mealie-recipes/mealie/pull/8652) | <span style="white-space:nowrap">![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8652) <sub><i>draft</i></sub></span> |
@@ -41,6 +43,4 @@ deployment (A rating on securityheaders.com).
 | [mealie-recipes/mealie#8350 – fix: delete orphaned legacy cookbook/plan-rule join table rows](https://github.com/mealie-recipes/mealie/pull/8350) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8350) |
 | [mealie-recipes/mealie#8227 – fix: labels get-by-id returns 404 instead of 500 for missing id](https://github.com/mealie-recipes/mealie/pull/8227) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8227) |
 | [mealie-recipes/mealie#8226 – fix: correct MultiPurposeLabel.foods/shopping_list_items relationship cardinality](https://github.com/mealie-recipes/mealie/pull/8226) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8226) |
-| [mealie-recipes/mealie#8225 – feat: organizer improvements for foods, tools, and labels](https://github.com/mealie-recipes/mealie/pull/8225) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8225) |
-| [jma1ice/newsletterr#202 – Fix: Install chromium-headless-shell instead of full chromium](https://github.com/jma1ice/newsletterr/pull/202) | ![PR status](https://img.shields.io/github/pulls/detail/state/jma1ice/newsletterr/202) |
 <!-- PR-STATUS:END -->
