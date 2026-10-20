@@ -28,6 +28,7 @@ deployment (A rating on securityheaders.com).
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [ljmerza/homepass#11 – Feat: Add per-link section heading names and a collapse lock](https://github.com/ljmerza/homepass/pull/11) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/11) |
 | [mealie-recipes/mealie#8800 – fix: start reverse proxy sign-in when login is reached from a public page](https://github.com/mealie-recipes/mealie/pull/8800) | <span style="white-space:nowrap">![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8800) <sub><i>draft</i></sub></span> |
 | [community-scripts/ProxmoxVE#18006 – feat(mealie): add reverse proxy auth settings to mealie.env](https://github.com/community-scripts/ProxmoxVE/pull/18006) | ![PR status](https://img.shields.io/github/pulls/detail/state/community-scripts/ProxmoxVE/18006) |
 | [ljmerza/homepass#9 – Feat - Add configurable info text for guest pages](https://github.com/ljmerza/homepass/pull/9) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/9) |
@@ -42,5 +43,4 @@ deployment (A rating on securityheaders.com).
 | [mealie-recipes/mealie#8429 – feat: admin permissions UI consistency and tooltips](https://github.com/mealie-recipes/mealie/pull/8429) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8429) |
 | [LeZed97/ZedSuite#29 – Linux support: AppImage + deb builds](https://github.com/LeZed97/ZedSuite/pull/29) | ![PR status](https://img.shields.io/github/pulls/detail/state/LeZed97/ZedSuite/29) |
 | [mealie-recipes/mealie#8350 – fix: delete orphaned legacy cookbook/plan-rule join table rows](https://github.com/mealie-recipes/mealie/pull/8350) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8350) |
-| [mealie-recipes/mealie#8227 – fix: labels get-by-id returns 404 instead of 500 for missing id](https://github.com/mealie-recipes/mealie/pull/8227) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8227) |
 <!-- PR-STATUS:END -->
