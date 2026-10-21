@@ -28,24 +28,23 @@ with urllib.request.urlopen(req) as resp:
     data = json.load(resp)
 
 lines = ["| PR | Status |", "|---|---|"]
+skipped = 0
 for item in data.get("items", []):
+    # Skip PRs that were closed without being merged (shields.io's badge
+    # would label these "rejected", which we don't want showing up here).
+    if item.get("state") == "closed" and not item.get("pull_request", {}).get("merged_at"):
+        skipped += 1
+        continue
+
     repo = item["repository_url"].split("/repos/")[1]
     num = item["number"]
     title = item["title"].replace("|", "\\|")
     url_ = item["html_url"]
 
-    # Always use the live, auto-refreshing state badge (open/closed/merged).
+    # Live, auto-refreshing state badge (open/merged). Draft already shows
+    # here too, since shields.io's badge reflects GitHub's own draft state.
     state_badge = f"https://img.shields.io/github/pulls/detail/state/{repo}/{num}"
     status_cell = f"![PR status]({state_badge})"
-
-    # shields.io's live badge doesn't report draft, so flag it with small,
-    # muted text (not a second badge), wrapped so it can't break onto its
-    # own line in the table cell.
-    if item.get("draft"):
-        status_cell = (
-            f'<span style="white-space:nowrap">{status_cell} '
-            f'<sub><i>draft</i></sub></span>'
-        )
 
     lines.append(f"| [{repo}#{num} – {title}]({url_}) | {status_cell} |")
 
@@ -65,4 +64,4 @@ updated = re.sub(
 with open("README.md", "w") as f:
     f.write(updated)
 
-print(f"Updated README.md with {len(data.get('items', []))} PR(s).")
+print(f"Updated README.md with {len(data.get('items', [])) - skipped} PR(s); skipped {skipped} closed-without-merge.")
