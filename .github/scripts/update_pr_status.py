@@ -6,43 +6,48 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 
 GH_TOKEN = os.environ["GH_TOKEN"]
+HEADERS = {
+    "Authorization": f"Bearer {GH_TOKEN}",
+    "Accept": "application/vnd.github+json",
+}
+
+
+def get_json(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req) as resp:
+        return json.load(resp)
+
 
 one_year_ago = (datetime.now(timezone.utc) - timedelta(days=365)).strftime("%Y-%m-%d")
 query = f"is:pr author:bferd created:>={one_year_ago}"
 encoded_query = urllib.parse.quote(query)
 
-url = (
+search_url = (
     f"https://api.github.com/search/issues?q={encoded_query}"
     f"&sort=created&order=desc&per_page=15"
 )
-
-req = urllib.request.Request(
-    url,
-    headers={
-        "Authorization": f"Bearer {GH_TOKEN}",
-        "Accept": "application/vnd.github+json",
-    },
-)
-
-with urllib.request.urlopen(req) as resp:
-    data = json.load(resp)
+data = get_json(search_url)
 
 lines = ["| PR | Status |", "|---|---|"]
 skipped = 0
 for item in data.get("items", []):
-    # Skip PRs that were closed without being merged (shields.io's badge
-    # would label these "rejected", which we don't want showing up here).
-    if item.get("state") == "closed" and not item.get("pull_request", {}).get("merged_at"):
-        skipped += 1
-        continue
-
     repo = item["repository_url"].split("/repos/")[1]
     num = item["number"]
+
+    # The search API doesn't reliably report whether a closed PR was merged,
+    # so for closed items, check the PR's own endpoint for the real answer.
+    if item.get("state") == "closed":
+        pr = get_json(f"https://api.github.com/repos/{repo}/pulls/{num}")
+        if not pr.get("merged"):
+            # Closed without merging - leave these off the table entirely.
+            skipped += 1
+            continue
+
     title = item["title"].replace("|", "\\|")
     url_ = item["html_url"]
 
-    # Live, auto-refreshing state badge (open/merged). Draft already shows
-    # here too, since shields.io's badge reflects GitHub's own draft state.
+    # Live, auto-refreshing state badge (open/draft/merged all render
+    # correctly here, since it reflects GitHub's own PR state).
     state_badge = f"https://img.shields.io/github/pulls/detail/state/{repo}/{num}"
     status_cell = f"![PR status]({state_badge})"
 
@@ -64,4 +69,5 @@ updated = re.sub(
 with open("README.md", "w") as f:
     f.write(updated)
 
-print(f"Updated README.md with {len(data.get('items', [])) - skipped} PR(s); skipped {skipped} closed-without-merge.")
+kept = len(data.get("items", [])) - skipped
+print(f"Updated README.md with {kept} PR(s); skipped {skipped} closed-without-merge.")
