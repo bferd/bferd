@@ -28,4 +28,18 @@ deployment (A rating on securityheaders.com).
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [ljmerza/homepass#11 – Feat: Add per-link section heading names and a collapse lock](https://github.com/ljmerza/homepass/pull/11) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/11) |
+| [mealie-recipes/mealie#8800 – fix: start reverse proxy sign-in when login is reached from a public page](https://github.com/mealie-recipes/mealie/pull/8800) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8800) |
+| [community-scripts/ProxmoxVE#18006 – feat(mealie): add reverse proxy auth settings to mealie.env](https://github.com/community-scripts/ProxmoxVE/pull/18006) | ![PR status](https://img.shields.io/github/pulls/detail/state/community-scripts/ProxmoxVE/18006) |
+| [ljmerza/homepass#9 – Feat - Add configurable info text for guest pages](https://github.com/ljmerza/homepass/pull/9) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/9) |
+| [ljmerza/homepass#5 – Add per-link option to show remaining uses on the guest page](https://github.com/ljmerza/homepass/pull/5) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/5) |
+| [dedsxc/mcp-frigate#69 – fix: honor FRIGATE_SERVER_HOST and FRIGATE_SERVER_PORT in SSE mode](https://github.com/dedsxc/mcp-frigate/pull/69) | ![PR status](https://img.shields.io/github/pulls/detail/state/dedsxc/mcp-frigate/69) |
+| [mealie-recipes/mealie#8652 – feat: associated recipes in organizer edit dialogs with removable tag…](https://github.com/mealie-recipes/mealie/pull/8652) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8652) |
+| [mealie-recipes/mealie#8536 – feat: import recipes from PDF, Word, ODT, and text documents](https://github.com/mealie-recipes/mealie/pull/8536) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8536) |
+| [mealie-recipes/mealie#8502 – fix: don't treat unnamed measurement as ingredient substitution](https://github.com/mealie-recipes/mealie/pull/8502) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8502) |
+| [mealie-recipes/mealie#8498 – fix: validate image type on recipe hero image upload](https://github.com/mealie-recipes/mealie/pull/8498) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8498) |
+| [mealie-recipes/mealie#8450 – feat: add gallery navigation to recipe image lightbox](https://github.com/mealie-recipes/mealie/pull/8450) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8450) |
+| [mealie-recipes/mealie#8429 – feat: admin permissions UI consistency and tooltips](https://github.com/mealie-recipes/mealie/pull/8429) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8429) |
+| [LeZed97/ZedSuite#29 – Linux support: AppImage + deb builds](https://github.com/LeZed97/ZedSuite/pull/29) | ![PR status](https://img.shields.io/github/pulls/detail/state/LeZed97/ZedSuite/29) |
+| [mealie-recipes/mealie#8350 – fix: delete orphaned legacy cookbook/plan-rule join table rows](https://github.com/mealie-recipes/mealie/pull/8350) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8350) |
 <!-- PR-STATUS:END -->
