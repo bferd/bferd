@@ -28,6 +28,7 @@ deployment (A rating on securityheaders.com).
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [community-scripts/ProxmoxVE#18116 – fix: Linkwarden - clear Yarn berry cache after install and update- #18115](https://github.com/community-scripts/ProxmoxVE/pull/18116) | ![PR status](https://img.shields.io/github/pulls/detail/state/community-scripts/ProxmoxVE/18116) |
 | [ljmerza/homepass#11 – Feat: Add per-link section heading names and a collapse lock](https://github.com/ljmerza/homepass/pull/11) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/11) |
 | [mealie-recipes/mealie#8800 – fix: start reverse proxy sign-in when login is reached from a public page](https://github.com/mealie-recipes/mealie/pull/8800) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8800) |
 | [community-scripts/ProxmoxVE#18006 – feat(mealie): add reverse proxy auth settings to mealie.env](https://github.com/community-scripts/ProxmoxVE/pull/18006) | ![PR status](https://img.shields.io/github/pulls/detail/state/community-scripts/ProxmoxVE/18006) |
@@ -40,6 +41,4 @@ deployment (A rating on securityheaders.com).
 | [mealie-recipes/mealie#8498 – fix: validate image type on recipe hero image upload](https://github.com/mealie-recipes/mealie/pull/8498) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8498) |
 | [mealie-recipes/mealie#8450 – feat: add gallery navigation to recipe image lightbox](https://github.com/mealie-recipes/mealie/pull/8450) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8450) |
 | [mealie-recipes/mealie#8429 – feat: admin permissions UI consistency and tooltips](https://github.com/mealie-recipes/mealie/pull/8429) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8429) |
-| [LeZed97/ZedSuite#29 – Linux support: AppImage + deb builds](https://github.com/LeZed97/ZedSuite/pull/29) | ![PR status](https://img.shields.io/github/pulls/detail/state/LeZed97/ZedSuite/29) |
-| [mealie-recipes/mealie#8350 – fix: delete orphaned legacy cookbook/plan-rule join table rows](https://github.com/mealie-recipes/mealie/pull/8350) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8350) |
 <!-- PR-STATUS:END -->
