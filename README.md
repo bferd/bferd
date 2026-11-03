@@ -28,6 +28,8 @@ deployment (A rating on securityheaders.com).
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [apache/guacamole-client#1262 – GUACAMOLE-2350: Map mouse back and forward buttons and include them in the mouse button mask.](https://github.com/apache/guacamole-client/pull/1262) | ![PR status](https://img.shields.io/github/pulls/detail/state/apache/guacamole-client/1262) |
+| [apache/guacamole-server#732 – GUACAMOLE-2350: Add back and forward mouse button flags and send them to RDP as extended mouse events](https://github.com/apache/guacamole-server/pull/732) | ![PR status](https://img.shields.io/github/pulls/detail/state/apache/guacamole-server/732) |
 | [ljmerza/homepass#16 – Colors: seven global colors and a contrast-aware palette](https://github.com/ljmerza/homepass/pull/16) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/16) |
 | [ljmerza/homepass#15 – Link branding: per-link logo, title, eyebrow and colours](https://github.com/ljmerza/homepass/pull/15) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/15) |
 | [community-scripts/ProxmoxVE#18116 – fix: Linkwarden - clear Yarn berry cache after install and update- #18115](https://github.com/community-scripts/ProxmoxVE/pull/18116) | ![PR status](https://img.shields.io/github/pulls/detail/state/community-scripts/ProxmoxVE/18116) |
@@ -40,5 +42,4 @@ deployment (A rating on securityheaders.com).
 | [mealie-recipes/mealie#8652 – feat: associated recipes in organizer edit dialogs with removable tag…](https://github.com/mealie-recipes/mealie/pull/8652) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8652) |
 | [mealie-recipes/mealie#8536 – feat: import recipes from PDF, Word, ODT, and text documents](https://github.com/mealie-recipes/mealie/pull/8536) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8536) |
 | [mealie-recipes/mealie#8502 – fix: don't treat unnamed measurement as ingredient substitution](https://github.com/mealie-recipes/mealie/pull/8502) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8502) |
-| [mealie-recipes/mealie#8498 – fix: validate image type on recipe hero image upload](https://github.com/mealie-recipes/mealie/pull/8498) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8498) |
 <!-- PR-STATUS:END -->
