@@ -28,6 +28,7 @@ deployment (A rating on securityheaders.com).
 <!-- PR-STATUS:START -->
 | PR | Status |
 |---|---|
+| [grimmory-tools/grimmory#3099 – fix(oidc): ignore userinfo responses with a malformed Content-Type](https://github.com/grimmory-tools/grimmory/pull/3099) | ![PR status](https://img.shields.io/github/pulls/detail/state/grimmory-tools/grimmory/3099) |
 | [transmute-app/transmute#336 – feat: show upload progress bar with shimmer while uploading](https://github.com/transmute-app/transmute/pull/336) | ![PR status](https://img.shields.io/github/pulls/detail/state/transmute-app/transmute/336) |
 | [apache/guacamole-client#1262 – GUACAMOLE-2350: Map mouse back and forward buttons and include them in the mouse button mask.](https://github.com/apache/guacamole-client/pull/1262) | ![PR status](https://img.shields.io/github/pulls/detail/state/apache/guacamole-client/1262) |
 | [apache/guacamole-server#732 – GUACAMOLE-2350: Add back and forward mouse button flags and send them to RDP as extended mouse events](https://github.com/apache/guacamole-server/pull/732) | ![PR status](https://img.shields.io/github/pulls/detail/state/apache/guacamole-server/732) |
@@ -41,5 +42,4 @@ deployment (A rating on securityheaders.com).
 | [ljmerza/homepass#5 – Add per-link option to show remaining uses on the guest page](https://github.com/ljmerza/homepass/pull/5) | ![PR status](https://img.shields.io/github/pulls/detail/state/ljmerza/homepass/5) |
 | [dedsxc/mcp-frigate#69 – fix: honor FRIGATE_SERVER_HOST and FRIGATE_SERVER_PORT in SSE mode](https://github.com/dedsxc/mcp-frigate/pull/69) | ![PR status](https://img.shields.io/github/pulls/detail/state/dedsxc/mcp-frigate/69) |
 | [mealie-recipes/mealie#8652 – feat: associated recipes in organizer edit dialogs with removable tag…](https://github.com/mealie-recipes/mealie/pull/8652) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8652) |
-| [mealie-recipes/mealie#8536 – feat: import recipes from PDF, Word, ODT, and text documents](https://github.com/mealie-recipes/mealie/pull/8536) | ![PR status](https://img.shields.io/github/pulls/detail/state/mealie-recipes/mealie/8536) |
 <!-- PR-STATUS:END -->
